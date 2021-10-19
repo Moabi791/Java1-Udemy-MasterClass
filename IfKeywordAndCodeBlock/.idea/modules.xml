@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/IfKeywordAndCodeBlocks.iml" filepath="$PROJECT_DIR$/IfKeywordAndCodeBlocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfKeywordAndCodeBlock.iml" filepath="$PROJECT_DIR$/IfKeywordAndCodeBlock.iml" />
     </modules>
   </component>
 </project>
